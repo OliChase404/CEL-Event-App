@@ -123,8 +123,10 @@ event-scheduler/
 - Export/import functionality
 
 ## UI Mock-Up
-Per the brief, here is a quick mock-up I made in Figma to show what I might build if given 5 days to create a UI for this project.
+Per the brief, here is a quick Figma mock-up to show what I might build if given 5 days to create a UI for this project.
 ![Event Scheduler Interface](Scheduler-UI-Mockup.png)
 
 This would change depending on the specific use case.  
-I would build this as a single-page application using React.js.
+I build this as a single-page application using React.js.
+
+## Thanks for looking!
