@@ -127,6 +127,6 @@ Per the brief, here is a quick Figma mock-up to show what I might build if given
 ![Event Scheduler Interface](Scheduler-UI-Mockup.png)
 
 This would change depending on the specific use case.  
-I build this as a single-page application using React.js.
+I would most likely build this as a single-page application using React.js.
 
 ## Thanks for looking!
